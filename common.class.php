@@ -24,7 +24,7 @@ class Commonfunctions{
             $b.=$a[$i];
         }
     }
-    return $b;
+    //return $b;
         if(strlen($b)>1) return $b;
         else return false;
     }
